@@ -82,117 +82,39 @@ Part_time - Number employed less than 35 hours.
 
 ####  Scatter Plots to Review Data Correlations
 
-![output_5_1](https://user-images.githubusercontent.com/33802087/40482513-c5b548f8-5f72-11e8-
 
-864f-79a7e235c1fe.png)
-
-![output_6_1](https://user-images.githubusercontent.com/33802087/40482520-c8ed4f34-5f72-11e8-
-
-8085-9ba354b235f5.png)
-
-![output_7_1](https://user-images.githubusercontent.com/33802087/40482531-d0e02680-5f72-11e8
-
--8879-5e72dbc557de.png)
-
-![output_8_1](https://user-images.githubusercontent.com/33802087/40482537-d32d13da-5f72-11e8
-
--8a39-582dece0a824.png)
-
-![output_9_1](https://user-images.githubusercontent.com/33802087/40482540-d5525c10-5f72-11e8
-
--8237-6e6fb97cf7bd.png)
-
-![output_10_1](https://user-images.githubusercontent.com/33802087/40482544-d8ccf4b8-5f72-11e8
-
--9c45-5b7a8d5aa990.png)
 
 #### Histograms to Verify Data Distribution
 
-![output_12_1](https://user-images.githubusercontent.com/33802087/40482649-23c9df30-5f73-11e8
 
--9d6e-1bb6056dd47a.png)
-
-![output_13_1](https://user-images.githubusercontent.com/33802087/40482651-24bfa8de-5f73-11e8
-
--97cf-4e1e83420598.png)
-
-![output_14_1](https://user-images.githubusercontent.com/33802087/40482655-26a2ddd8-5f73-
-
-11e8-869a-251cd48e2e07.png)
-
-![output_15_1](https://user-images.githubusercontent.com/33802087/40482656-28199b02-5f73-
-
-11e8-8004-774591c72303.png)
-
-![output_16_1](https://user-images.githubusercontent.com/33802087/40482663-2aca3244-5f73-
-
-11e8-82b3-2d5ee2f1aa33.png)
-
-![output_17_1](https://user-images.githubusercontent.com/33802087/40482667-2d12d68c-5f73-
-
-11e8-8a09-88f10ef4a170.png)
-
-![output_18_1](https://user-images.githubusercontent.com/33802087/40482668-2f817810-5f73-11e8
-
--8a6e-173bb655dde8.png)
-
-![output_19_1](https://user-images.githubusercontent.com/33802087/40482675-318f056e-5f73-11e8
-
--85d3-c3a1947414fd.png)
 
 #### Scatter Matrix Plot for Data Statistics 
 
-![output_21_1](https://user-images.githubusercontent.com/33802087/40482732-57c1fc50-5f73-11e8
 
--86ce-59e659953656.png)
 
 #### Scatter Matrix Plot for Unemployment Rate
 
-![output_22_1](https://user-images.githubusercontent.com/33802087/40482753-67b36428-5f73-
 
-11e8-9fe2-d217582b8f7a.png)
 
 #### Women Proportions in Different Majors
 
-![output_24_0](https://user-images.githubusercontent.com/33802087/40482786-82d8e70a-5f73-
 
-11e8-944d-690556b34b41.png)
-
-![output_24_1](https://user-images.githubusercontent.com/33802087/40482787-8323f7a4-5f73-11e8
-
--9433-7da43e92aef3.png)
 
 #### Unemployment Rates in Different Majors
 
-![output_26_0](https://user-images.githubusercontent.com/33802087/40482820-a53c5d72-5f73-
 
-11e8-81c9-cb3e47628d74.png)
-
-![output_26_1](https://user-images.githubusercontent.com/33802087/40482821-a581d1d6-5f73-
-
-11e8-9ed8-94a732defebf.png)
 
 #### Number of Men & Women in Each Major Category
 
-![output_30_0](https://user-images.githubusercontent.com/33802087/40482868-c559619a-5f73-
 
-11e8-8be0-0df9f010329b.png)
 
 #### Distribution of Median Salaries & Unemployment Rate
 
-![output_32_0](https://user-images.githubusercontent.com/33802087/40482914-e8a5a5a0-5f73-
 
-11e8-82c3-0ee49618a4f9.png)
-
-![output_32_1](https://user-images.githubusercontent.com/33802087/40482915-e8f0285a-5f73-11e8
-
--9b36-8954364d32b2.png)
 
 #### Hexagonal Bin Plot to Visualize Data Density
 
-![output_35_0](https://user-images.githubusercontent.com/33802087/40482932-f5979336-5f73-11e8
 
--9cef-dd32e300c8ec.png)
 
 ### Explain the results in a simple, concise and easy way. (non-technical audience)
 
