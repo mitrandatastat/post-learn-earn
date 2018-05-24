@@ -96,7 +96,21 @@ Part_time - Number employed less than 35 hours.
 
 #### Histograms to Verify Data Distribution
 
+![output_12_1](https://user-images.githubusercontent.com/33802087/40483651-57bc66d4-5f76-11e8-8b45-f31effa39e2c.png)
 
+![output_13_1](https://user-images.githubusercontent.com/33802087/40483652-58005470-5f76-11e8-9901-9ee28624dbc2.png)
+
+![output_14_1](https://user-images.githubusercontent.com/33802087/40483654-58440440-5f76-11e8-9395-5dcd80d1ae14.png)
+
+![output_15_1](https://user-images.githubusercontent.com/33802087/40483655-5888b2f2-5f76-11e8-8a32-69f7f692a921.png)
+
+![output_16_1](https://user-images.githubusercontent.com/33802087/40483656-58d0b96c-5f76-11e8-853d-8f6a92af11e4.png)
+
+![output_17_1](https://user-images.githubusercontent.com/33802087/40483657-5916860e-5f76-11e8-800c-42a223982364.png)
+
+![output_18_1](https://user-images.githubusercontent.com/33802087/40483659-595e7702-5f76-11e8-9dda-f54b07fcc9a8.png)
+
+![output_19_1](https://user-images.githubusercontent.com/33802087/40483660-59a90286-5f76-11e8-9e55-b33e75591350.png)
 
 #### Scatter Matrix Plot for Data Statistics 
 
