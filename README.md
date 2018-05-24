@@ -82,7 +82,17 @@ Part_time - Number employed less than 35 hours.
 
 ####  Scatter Plots to Review Data Correlations
 
+![output_6_1](https://user-images.githubusercontent.com/33802087/40483558-0ae1e2ee-5f76-11e8-91cc-eb2b0215dd74.png)
 
+![output_5_1](https://user-images.githubusercontent.com/33802087/40483564-0c526cac-5f76-11e8-9933-0361f7fbbd87.png)
+
+![output_7_1](https://user-images.githubusercontent.com/33802087/40483560-0b2cfb58-5f76-11e8-8c1a-1c8f437dcf81.png)
+
+![output_8_1](https://user-images.githubusercontent.com/33802087/40483561-0b7b7f12-5f76-11e8-9fc4-cc8eb19fdeb9.png)
+
+![output_9_1](https://user-images.githubusercontent.com/33802087/40483562-0bc5af88-5f76-11e8-8547-e7f5151d3bb8.png)
+
+![output_10_1](https://user-images.githubusercontent.com/33802087/40483563-0c0b405c-5f76-11e8-940f-76dbd904e3f4.png)
 
 #### Histograms to Verify Data Distribution
 
