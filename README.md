@@ -283,9 +283,7 @@ In case of gotten second chance to do this project again, I would have:
 	* Non-College Jobs
 	* 25th & 75th Percentile
 	* Part Time Employed, etc.
-to develop correlation matrix and determine their influence over the earnings for different course 
-
-majors. 
+to develop correlation matrix and determine their influence over the earnings for different course majors. 
 
 * Verified the sufficiency of the sample size and come up with the conclusive suggestion about:
 	* the data sufficiency 
