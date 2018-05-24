@@ -114,31 +114,37 @@ Part_time - Number employed less than 35 hours.
 
 #### Scatter Matrix Plot for Data Statistics 
 
-
+![output_21_1](https://user-images.githubusercontent.com/33802087/40482732-57c1fc50-5f73-11e8-86ce-59e659953656.png)
 
 #### Scatter Matrix Plot for Unemployment Rate
 
-
+![output_22_1](https://user-images.githubusercontent.com/33802087/40482753-67b36428-5f73-11e8-9fe2-d217582b8f7a.png)
 
 #### Women Proportions in Different Majors
 
+![output_24_0](https://user-images.githubusercontent.com/33802087/40482786-82d8e70a-5f73-11e8-944d-690556b34b41.png)
 
+![output_24_1](https://user-images.githubusercontent.com/33802087/40482787-8323f7a4-5f73-11e8-9433-7da43e92aef3.png)
 
 #### Unemployment Rates in Different Majors
 
+![output_26_0](https://user-images.githubusercontent.com/33802087/40482820-a53c5d72-5f73-11e8-81c9-cb3e47628d74.png)
 
+![output_26_1](https://user-images.githubusercontent.com/33802087/40482821-a581d1d6-5f73-11e8-9ed8-94a732defebf.png)
 
 #### Number of Men & Women in Each Major Category
 
-
+![output_30_0](https://user-images.githubusercontent.com/33802087/40482868-c559619a-5f73-11e8-8be0-0df9f010329b.png)
 
 #### Distribution of Median Salaries & Unemployment Rate
 
+![output_32_0](https://user-images.githubusercontent.com/33802087/40482914-e8a5a5a0-5f73-11e8-82c3-0ee49618a4f9.png)
 
+![output_32_1](https://user-images.githubusercontent.com/33802087/40482915-e8f0285a-5f73-11e8-9b36-8954364d32b2.png)
 
 #### Hexagonal Bin Plot to Visualize Data Density
 
-
+![output_35_0](https://user-images.githubusercontent.com/33802087/40482932-f5979336-5f73-11e8-9cef-dd32e300c8ec.png)
 
 ### Explain the results in a simple, concise and easy way. (non-technical audience)
 
