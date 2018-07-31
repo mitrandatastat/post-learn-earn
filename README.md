@@ -22,7 +22,7 @@ Why do we need the earning data for the college majors? What benefit could we de
 
 ### Technical Writeup ###
 
-Please refer to the approprite portion of the portfolio section to read the detailed project write up. 
+Please refer to the approprite portion of the portfolio section to read the [**Detailed Project Writeup**](https://portfolio.mshah.info/earnings-based-on-college-majors/). 
 
 ### Code Explanation ###
 
